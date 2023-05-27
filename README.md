@@ -32,10 +32,10 @@ Compile and fit the model
 Predict for custom inputs using this model
 
 ## PROGRAM
-Developed By: **VIRGIL JOVITA.A**
+Developed By: **Prem Ananth G**
 </br>
 
-Register No: **212221240062**
+Register No: **212220220029**
 ### Libraries
 ```py
 import pandas as pd
